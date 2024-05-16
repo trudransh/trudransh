@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ration-dot <br>👯 I’m looking to collaborate on any projects related to Full stack blockchain development<br>🤝 I’m looking for someone to help me with a project related to NFT and asset management on blockchain<br>🌱 I’m currently learning React, Solidity and How the de-fi works <br>💬 Ask me about Blockchain, Ethereum, Web-Development<br>
+🔭 I’m currently working as Blockchain Developer Intern at QuadB Technologies <br>👯 I’m looking to collaborate on any projects related to Full stack blockchain development<br>🤝 I’m looking for someone to help me with a project related to NFT and asset management on blockchain<br>🌱 I’m currently learning React, Solidity and How the de-fi works <br>💬 Ask me about Blockchain, Ethereum, Web-Development<br>
 
 
 ## 🌐 Socials:
