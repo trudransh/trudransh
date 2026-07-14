@@ -33,4 +33,3 @@ More than $27K in hackathon winnings, including that $25K ICP grant and a profes
 - X: https://x.com/dracian_me
 - Email: trudranshsingh2003@gmail.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=trudransh&show_icons=true&hide_border=true&count_private=true)
